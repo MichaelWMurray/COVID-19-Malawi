@@ -11,5 +11,3 @@
 
 # Results:
 ![](https://github.com/MichaelWMurray/Portfolio/blob/main/images/MalawiIncomeReg.png)
-
-![](https://github.com/MichaelWMurray/Portfolio/blob/main/images/MalawiSkipAMealReg.png)
