@@ -12,6 +12,4 @@ COVID-19 Effects in Malawi
 * Living Standards and Measurement Survey (LSMS) 2017, 2019
 * LSMS COVID-19 Phone Surveys June, July, August 2020
 
-![](https://github.com/MichaelWMurray/Portfolio/blob/main/images/Malawi.png)
-
 ![](https://github.com/MichaelWMurray/Portfolio/blob/main/images/MalawiIncomeReg.png)
